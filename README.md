@@ -4,7 +4,7 @@ This repository contains the source code for a single-page CV of Ajisaka Kamanda
 
 ## Introduction
 
-This project is part of the [SH roadmap]([https://example.com/roadmap](https://roadmap.sh/projects/single-page-cv)) challenge: **Create a single-page HTML CV to showcase your career history**. The goal of this challenge is to create a well-structured, visually appealing CV using only HTML.
+This project is part of the [SH roadmap]([https://roadmap.sh/projects/single-page-cv]) challenge: **Create a single-page HTML CV to showcase your career history**. The goal of this challenge is to create a well-structured, visually appealing CV using only HTML.
 
 ## Features
 
